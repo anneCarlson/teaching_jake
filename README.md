@@ -1,6 +1,6 @@
 # git-practice
 
-FIXME: description
+An app for teaching version control.
 
 ## Installation
 
